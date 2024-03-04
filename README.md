@@ -16,10 +16,10 @@ Chatbots use a special kind of computer program called a transformer, which is l
 
 By the end of this lab, you will understand:
 
--the main components of a chatbot
--what an LLM is
--how to choose an LLM for your application
--how a transformer essentially works
--how to feed input into a transformer (tokenization)
--how to program your own simple chatbot in Pythonide a spoken response
+- the main components of a chatbot
+- what an LLM is
+- how to choose an LLM for your application
+- how a transformer essentially works
+- how to feed input into a transformer (tokenization)
+- how to program your own simple chatbot in Pythonide a spoken response
 
